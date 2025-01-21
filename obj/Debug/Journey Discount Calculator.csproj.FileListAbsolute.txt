@@ -1,0 +1,7 @@
+C:\Users\ABC\source\repos\Journey Discount Calculator\Journey Discount Calculator\bin\Debug\Journey Discount Calculator.exe.config
+C:\Users\ABC\source\repos\Journey Discount Calculator\Journey Discount Calculator\bin\Debug\Journey Discount Calculator.exe
+C:\Users\ABC\source\repos\Journey Discount Calculator\Journey Discount Calculator\bin\Debug\Journey Discount Calculator.pdb
+C:\Users\ABC\source\repos\Journey Discount Calculator\Journey Discount Calculator\obj\Debug\Journey Discount Calculator.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Journey Discount Calculator\Journey Discount Calculator\obj\Debug\Journey Discount Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Journey Discount Calculator\Journey Discount Calculator\obj\Debug\Journey Discount Calculator.exe
+C:\Users\ABC\source\repos\Journey Discount Calculator\Journey Discount Calculator\obj\Debug\Journey Discount Calculator.pdb
